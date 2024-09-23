@@ -1,0 +1,15 @@
+* root {
+    background-color: none;
+}
+
+header {
+    display: block;
+}
+
+.logo img {
+    width: 15em;
+}
+
+body {
+    background-color: aquamarine;
+}
